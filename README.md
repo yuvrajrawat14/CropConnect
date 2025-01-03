@@ -26,6 +26,6 @@ CropConnect is an e-commerce platform designed to help farmers sell their produc
 
 ## Made By
 
-- [Jai Agrawal](https://github.com/JaiAgarwal07)
+- [Jai Agarwal](https://github.com/JaiAgarwal07)
 - [Yuvraj Singh Rawat](https://github.com/yuvrajrawat14)
 - [Keshav Singhal](https://github.com/keshav767)
