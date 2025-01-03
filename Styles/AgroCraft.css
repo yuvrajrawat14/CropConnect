@@ -1,0 +1,96 @@
+body {
+    background-image: url(../Images/Website/Farmer.jpg); 
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    font-family: 'Cormorant Infant', serif;
+}
+
+#WELCOME {
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 8%;
+    opacity: 0.9;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+    transition: opacity 0.5s ease-in-out;
+}
+
+#WELCOME:hover {
+    opacity: 1;
+}
+
+#are {
+    font-weight: bold;
+    opacity: 1;
+    padding-top: 1%;	
+    font-size: 85px;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+    transition: transform 0.5s ease-in-out;
+}
+
+#are:hover {
+    transform: scale(1.05);
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #45a049;
+    transform: scale(1.1);
+}
+
+#linebreak{
+	display:block;
+	margin-bottom: 0.5em;
+}
+
+ #Farmerbutton{
+	align-items: center;
+	background-color:transparent;
+	font-size: 90px;
+	border-style:solid;
+	border-width: 5px;
+	border-radius: 20%;
+	border-color:black;
+}
+
+#Buyerbutton{
+	align-items: center;
+	background-color:transparent;
+	font-size: 90px;
+	margin-left: 10%;
+	border-style:solid;
+	border-width: 5px;
+	border-radius: 20%;
+	border-color:black;
+}
+
+#link {
+	color:black;
+	text-decoration: none;
+}
+
+#link:hover{
+	color: rgb(155, 248, 4);
+	border-radius: 20%;
+	border-style: outset;
+	border-color: rgb(155, 248, 4);
+    font-weight: bolder;
+	border-width: 4px;
+}
